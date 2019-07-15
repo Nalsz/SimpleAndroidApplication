@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Simple Android Application</string>
+    <string name="action_settings">Settings</string>
+    <string name="appBar">ALC 4 Phase 1</string>
+    <string name="welcome">WELCOME TO ALC 4.0</string>
+    <string name="about">ABOUT ALC</string>
+    <string name="profile">MY PROFILE</string>
+    <string name="title_activity_about_alc">About ALC</string>
+    <string name="about_alc">about_alc</string>
+    <string name="my_profile">my_profile</string>
+    <string name="title_activity_my_profile">MyProfile</string>
+
+    <string name="profile_picture">profile picture</string>
+    <string name="portfolio_button">portfolio button</string>
+    <string name="website_icon">website icon</string>
+    <string name="description_icon">description icon</string>
+    <string name="email_icon">email icon</string>
+    <string name="phone_icon">phone icon</string>
+    <string name="company_details">COMPANY DETAILS</string>
+    <string name="phone">Phone</string>
+    <string name="phone_number">+2347089899522</string>
+    <string name="email_label">Email</string>
+    <string name="email">nathalsys@gmail.com</string>
+    <string name="description_label">Description</string>
+    <string name="description">Android Developer, UI, OOP</string>
+    <string name="website_label">Website</string>
+    <string name="website">https://www.github.com/nalsz</string>
+    <string name="portfolio">PORTFOLIO</string>
+    <string name="android_developer">ANDROID DEVELOPER</string>
+    <string name="address">ETA-AGBOR, CALABAR, CROSS RIVER, NIGERIA</string>
+    <string name="web_address">web address</string>
+    <string name="company_image">company image</string>
+    <string name="andela">THE ANDELA LEARNING COMMUNITY</string>
+    <string name="andela_two">A community empowering the next generation of African Technology Leaders</string>
+    <string name="andela_three">Join us!</string>
+    <string name="andela_four">The Andela Learning Community is a network of people technologists and tech entusiasts Across Africa dedicated to learning how to use technology to solve humanities problems</string>
+</resources>
